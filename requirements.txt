@@ -1,0 +1,5 @@
+setuptools~=68.0.0
+numpy
+scikit-learn
+pandas
+
